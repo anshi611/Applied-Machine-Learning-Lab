@@ -9,7 +9,7 @@ The experiments focus on solving **real-world business problems** from domains s
 
 ---
 
-# 📚 Course Information
+#  Course Information
 
 **Course:** Applied Machine Learning Lab
 
