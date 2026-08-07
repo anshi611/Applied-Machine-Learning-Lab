@@ -1,4 +1,4 @@
-# 🚀 Applied Machine Learning Lab
+# Applied Machine Learning Lab
 ### B.Tech CSE | Semester V
 
 Welcome to the **Applied Machine Learning Lab** repository.
