@@ -25,7 +25,7 @@ The experiments focus on solving **real-world business problems** from domains s
 
 ---
 
-# 🎯 Course Outcomes
+#  Course Outcomes
 
 After completing this laboratory, students will be able to
 
@@ -38,7 +38,7 @@ After completing this laboratory, students will be able to
 
 ---
 
-# 🗂 Repository Structure
+#  Repository Structure
 
 ```
 Applied-Machine-Learning-Lab
@@ -65,7 +65,7 @@ Applied-Machine-Learning-Lab
 
 ---
 
-# 🧪 Laboratory Experiments
+#  Laboratory Experiments
 
 | Experiment | Title |
 |------------|--------------------------------------------|
@@ -82,7 +82,7 @@ Applied-Machine-Learning-Lab
 
 ---
 
-# 💻 Software Requirements
+#  Software Requirements
 
 - Python 3.10+
 - Google Colab (Recommended)
@@ -91,7 +91,7 @@ Applied-Machine-Learning-Lab
 
 ---
 
-# 📦 Python Libraries
+#  Python Libraries
 
 ```
 numpy
@@ -113,7 +113,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Running the Experiments
+#  Running the Experiments
 
 ## Option 1: Google Colab (Recommended)
 
@@ -183,7 +183,7 @@ For each experiment
 
 ---
 
-# 📌 Student Instructions
+#  Student Instructions
 
 ✅ Read the experiment carefully before coding.
 
@@ -199,7 +199,7 @@ For each experiment
 
 ---
 
-# 📈 Learning Workflow
+#  Learning Workflow
 
 ```
 Dataset
@@ -231,7 +231,7 @@ Deployment
 
 ---
 
-# 📖 Folder Description
+# Folder Description
 
 | Folder | Description |
 |---------|-------------|
@@ -245,7 +245,7 @@ Deployment
 
 ---
 
-# 🎓 Academic Integrity
+# Academic Integrity
 
 Students are expected to
 
@@ -256,7 +256,7 @@ Students are expected to
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Students are welcome to
 
@@ -268,7 +268,7 @@ Students are welcome to
 
 ---
 
-# 📚 References
+#  References
 
 - Scikit-Learn Documentation
 - TensorFlow Documentation
@@ -279,7 +279,7 @@ Students are welcome to
 
 ---
 
-# 👩‍🏫 Course Instructor
+#  Course Instructor
 
 **Ms. Anshita Shukla**
 
@@ -291,8 +291,8 @@ IILM University, Gurugram
 
 ---
 
-# ⭐ Repository Goal
+#  Repository Goal
 
 This repository is designed to help students learn **Applied Machine Learning through hands-on experimentation** using real-world datasets and industry-standard Python libraries.
 
-Happy Learning! 🚀
+Happy Learning! 
